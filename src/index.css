@@ -1,0 +1,11 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  background: #f4f6f8;
+}
+
+/* App layout spacing */
+.main-content {
+  padding: 16px;
+}
